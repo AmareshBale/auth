@@ -1,0 +1,10 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+
+input,button {
+    display:block;
+    padding: 5px;
+    margin: 10px;
+}
